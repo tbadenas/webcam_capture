@@ -4,6 +4,7 @@
 #include <cstdlib>
 
 # modificacio developer 1
+# modificacio developer 2
 
 int main(int argc, char *argv[]) 
 {
