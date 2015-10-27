@@ -3,6 +3,8 @@
 #include <iostream>
 #include <cstdlib>
 
+# modificacio developer 1
+
 int main(int argc, char *argv[]) 
 {
 	//OpenCV video capture object
